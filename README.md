@@ -5,7 +5,7 @@ The Vrinda Store wants to create an annual sales report for 2023. So that, the o
 ## Dataset used
 - <a href="https://github.com/Pramodkumar-Analyst/Sales-Analysis_Dashboard-/blob/main/Vrinda%20Store%20Analysis.xlsx">Dataset</a>
 
-## Questions (KPIs)
+## Questions (KPI's)
 - Compare the sales and orders using single chart.
 - Which month got the highest sales and orders?
 - Who purchased more - Men or Women?
