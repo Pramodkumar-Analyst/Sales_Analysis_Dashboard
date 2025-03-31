@@ -26,7 +26,7 @@ The Vrinda Store wants to create an annual sales report for 2023. So that, the o
 
 ## Dashboard
 
-![Sales Report](https://github.com/user-attachments/assets/9a9607eb-b1a8-42e1-8b86-6131901cc50d)
+![Sales Report](https://github.com/Pramodkumar-Analyst/Sales_Analysis_Dashboard/blob/main/Sales%20Dashboard.png)
 
 
 ## Project Insight
