@@ -16,7 +16,7 @@ The Vrinda Store wants to create an annual sales report for 2023. So that, the o
 - Highest selling category?
 - Percentage of Total Orders delivered
 
-- Dashboard Interaction <a href="https://github.com/Pramodkumar-Analyst/Sales-Analysis_Dashboard-/blob/main/Sales%20Report.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/Pramodkumar-Analyst/Sales_Analysis_Dashboard/blob/main/Sales%20Dashboard.png">View Dashboard</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
