@@ -19,10 +19,10 @@ The Vrinda Store wants to create an annual sales report for 2023. So that, the o
 - Dashboard Interaction <a href="https://github.com/Pramodkumar-Analyst/Sales_Analysis_Dashboard/blob/main/Sales%20Dashboard.png">View Dashboard</a>
 
 ## Process
-- Verify data for any missing values and anomalies, and sort out the same.
-- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Verify the data for any missing values and inconsistent data format.
+- Cleaned and transformed the data using the Power Query.
 - Created pivot tables according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+- Merge all pivot tables into one dashboard and apply slicer to make it dynamic.
 
 ## Dashboard
 
